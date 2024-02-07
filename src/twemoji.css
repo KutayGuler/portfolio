@@ -20,6 +20,21 @@ licensed under MIT: https://ellekasai.mit-license.org/
 .twa-man-mage {
   background-image: url('https://cdn.jsdelivr.net/gh/twitter/twemoji@master/assets/svg/1f9d9-200d-2642-fe0f.svg');
 }
+.twa-orangutan {
+  background-image: url('https://cdn.jsdelivr.net/gh/twitter/twemoji@master/assets/svg/1f9a7.svg');
+}
+.twa-pile-of-poo {
+  background-image: url('https://cdn.jsdelivr.net/gh/twitter/twemoji@master/assets/svg/1f4a9.svg');
+}
+.twa-brain {
+  background-image: url('https://cdn.jsdelivr.net/gh/twitter/twemoji@master/assets/svg/1f9e0.svg');
+}
+.twa-broccoli {
+  background-image: url('https://cdn.jsdelivr.net/gh/twitter/twemoji@master/assets/svg/1f966.svg');
+}
+.twa-closed-umbrella {
+  background-image: url('https://cdn.jsdelivr.net/gh/twitter/twemoji@master/assets/svg/1f302.svg');
+}
 
 .twa {
   display: inline-block;
