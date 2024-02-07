@@ -66,7 +66,7 @@
 </script>
 
 <h1>Projects</h1>
-<div class="flex flex-col gap-4 py-4">
+<div class="flex flex-col gap-4 pt-4 pb-12">
   {#each projects as { name, description, stack, classes, emoji, website, github, reveal, btn_classes }}
     <div
       class="relative flex flex-col w-full rounded shadow-sm p-6 {classes} w-full max-w-xl overflow-hidden"
