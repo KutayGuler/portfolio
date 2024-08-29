@@ -43,7 +43,7 @@
       classes: 'bg-white text-stone-900',
       stack: ['sveltekit', 'typescript', 'tailwind', 'daisyui', 'supabase'],
       emoji: 'twa-alien-monster',
-      website: 'https://emojistan.app/',
+      website: 'https://emojistan.vercel.app/',
       github: 'https://github.com/KutayGuler/emojistan',
       reveal: false,
       btn_classes: 'bg-purple-800 text-stone-200'
