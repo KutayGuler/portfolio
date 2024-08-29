@@ -2,8 +2,8 @@
 <h1>Greetings traveler!</h1>
 <br />
 <p class="text-3xl leading-normal">
-  I'm Kutay, a frontend developer dwelling in <span class="young-serif">Wrocław.</span> You can
-  reach me at
+  I'm Kutay, a frontend developer dwelling in <span class="young-serif">Bursa.</span> You can reach
+  me at
   <a class="hover:text-emerald-400" href="mailto:kutayguler.dev@gmail.com"
     >kutayguler.dev@gmail.com</a
   >. I am also on
